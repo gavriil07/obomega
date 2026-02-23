@@ -1,0 +1,2 @@
+# obomega
+об omega
